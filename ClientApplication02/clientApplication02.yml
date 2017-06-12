@@ -1,0 +1,7 @@
+server.port: 8001
+spring.datasource.username: scott
+spring.datasource.password: tiger
+datasource.driverClassName: oracle.jdbc.driver.OracleDriver
+spring.datasource.url: jdbc:oracle:thin:@WIN-N18D0B6OSTK:1521:ORCL1
+
+
