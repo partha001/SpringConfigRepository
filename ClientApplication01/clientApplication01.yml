@@ -1,4 +1,4 @@
-server.port: 8001
+server.port: 8003
 spring.datasource.username: scott
 spring.datasource.password: tiger
 datasource.driverClassName: oracle.jdbc.driver.OracleDriver
